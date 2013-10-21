@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails sample_app: test" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="2afee593-e337-4d9a-ba2c-10981346fd54">
+    <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+    <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/test.sqlite3</jdbc-url>
+    <libraries/>
+  </data-source>
+</component>
