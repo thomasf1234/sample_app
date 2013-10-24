@@ -17,3 +17,5 @@
 
 #secret_token
 secret_token.rb
+/.idea
+*~
